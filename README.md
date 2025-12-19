@@ -17,16 +17,12 @@ public class AboutMe
         "Game Development",
         "Systems & Performance"
     };
-
-    public string[] TechStack => new[]
-    {
-        "Python", "JavaScript", "TypeScript", "C++", "C#", "Java",
-        "React", "Node.js", "Docker", "Git"
-    };
 }
 ```
 
 ## Tech Stack
+
+## Tech
 
 ### Languages
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
@@ -35,12 +31,21 @@ public class AboutMe
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 ![C#](https://skillicons.dev/icons?i=cs&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![SQL](https://skillicons.dev/icons?i=postgres&theme=dark)
 
-### Frameworks and Tools
+### Frameworks
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+
+### Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+
+### Tools
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
+
 
 
 ## GitHub Stats
