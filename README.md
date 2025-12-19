@@ -20,8 +20,6 @@ public class AboutMe
 }
 ```
 
-## Tech Stack
-
 ## Tech
 
 ### Languages
@@ -33,16 +31,12 @@ public class AboutMe
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
 ![SQL](https://skillicons.dev/icons?i=postgres&theme=dark)
 
-### Frameworks
+### Frameworks & Tools
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
 ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-
-### Databases
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-
-### Tools
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 
