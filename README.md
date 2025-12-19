@@ -46,6 +46,8 @@ public class AboutMe
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lephorx&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Yearly Contributions](https://badges.strrl.dev/contributions/yearly/lephorx?style=flat&labelColor=333333&logoColor=E7E7E7&color=BA4AB9&label=Yearly%20Contributions&logo=github)
+
 
 
 ## What I am working on
