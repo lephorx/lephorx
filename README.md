@@ -15,7 +15,8 @@ public class AboutMe
         "Software Engineering",
         "Cybersecurity",
         "Game Development",
-        "Systems & Performance"
+        "Systems & Performance",
+        "Gym"
     };
 }
 ```
