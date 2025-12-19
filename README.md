@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ramon 👋</h1>
 <h3 align="center">Software Developer · Problem Solver · Builder</h3>
 
----
-
 ## AboutMe.cs
 
 ```csharp
