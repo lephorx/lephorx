@@ -44,25 +44,15 @@ public class AboutMe
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 
----
 
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lephorx&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
----
-
-## Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lephorx&theme=github-dark&hide_border=true)
-
----
 
 ## What I Am Working On
 
 - [CTIP](https://github.com/gradualisht/CTIP) - Confidential Text Intelligence Platform
-
----
 
 ## Connect
 
