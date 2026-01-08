@@ -31,7 +31,7 @@ public class AboutMe
 ![C#](https://skillicons.dev/icons?i=cs&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
 ![SQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![Verse]([https://skillicons.dev/icons?i=verse&theme=dark](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FVerse&ved=0CBYQjRxqFwoTCPCZ68ji-5EDFQAAAAAdAAAAABAf&opi=89978449))
+![Verse](https://logos.fandom.com/wiki/File:Epic_Games_Verse_UEFN_Logo_29s.svg)
 
 ### Frameworks & Tools
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
