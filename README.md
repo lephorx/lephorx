@@ -31,7 +31,6 @@ public class AboutMe
 ![C#](https://skillicons.dev/icons?i=cs&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
 ![SQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![Unreal Engine](https://skillicons.dev/icons?i=unreal&theme=dark)
 
 
 ### Frameworks & Tools
