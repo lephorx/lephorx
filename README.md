@@ -26,8 +26,4 @@ public class AboutMe
 
 - [CTIP](https://github.com/gradualisht/CTIP) - Confidential Text Intelligence Platform
 
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lephorx)
-
 > Simplicity is the soul of efficiency. — Austin Freeman
